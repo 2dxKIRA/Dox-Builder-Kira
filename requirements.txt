@@ -1,0 +1,2 @@
+# requirements.txt for D0X CREATOR
+customtkinter

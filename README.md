@@ -33,7 +33,7 @@
 
 Vous avez juste à lancer le main.py ! 
 
-( tuto : https://www.youtube.com/watch?v=gapUox3OJf4 )
+( tuto : https://www.youtube.com/watch?v=6ijxXm5IWYg )
 
 # ⚠️ DISCLAIMER
 

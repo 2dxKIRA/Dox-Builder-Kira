@@ -11,15 +11,15 @@
 <!-- Badges centrés -->
 <p align="center">
   <img
-    src="https://img.shields.io/badge/views-67-green"
+    src="https://img.shields.io/badge/views-112-green"
     alt="Views"
   />
   <img
-    src="https://img.shields.io/badge/version-v2.1-blue"
+    src="https://img.shields.io/badge/version-v1.0-blue"
     alt="Version"
   />
   <img
-    src="https://img.shields.io/badge/download-21-red"
+    src="https://img.shields.io/badge/download-99-red"
     alt="Downloads"
   />
 </p>

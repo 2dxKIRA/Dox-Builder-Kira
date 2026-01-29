@@ -31,7 +31,7 @@
 
 # 🔥 UTILISATION
 
-Vous avez juste à lancer le KiraMain.py ( les autre fichier doivent etre present ) ! 
+Vous avez juste à lancer le main.py ! 
 
 ( tuto : https://www.youtube.com/watch?v=gapUox3OJf4 )
 
@@ -46,4 +46,4 @@ Projet créé par **2dx**
 
 ## 👀 Preview
 
-![Preview](https://cdn.discordapp.com/attachments/1427980513221677158/1465052961053868285/preview.png?ex=6977b465&is=697662e5&hm=52345caf8e2f9a8d43ddcbf82907198db3ad9491004aa580c874230c05006a33&)
+![Preview](https://cdn.discordapp.com/attachments/1466212384996593902/1466502535262245126/image.png?ex=697cfa6a&is=697ba8ea&hm=850d8756e95b43412b8af9980b3e8af451b891b4613702dcb7fabe7672166ab2&)
